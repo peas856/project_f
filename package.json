@@ -1,0 +1,10 @@
+{
+  "name": "project_f",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peas856/project_f",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
