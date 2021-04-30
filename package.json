@@ -4,7 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/peas856/project_f",
   "license": "MIT",
+  "scripts": {
+      "test": "jest"
+    },
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
